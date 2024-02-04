@@ -41,3 +41,11 @@ const cars = ["Saab", "Volvo", "BMW"];
 
 // Date object:
 const date = new Date("2024-02-3");
+
+//Find the typeof a javascript vriable
+console.log(typeof date);
+console.log(typeof cars);
+console.log(typeof userInfo);
+console.log(typeof isMarried);
+console.log(typeof firstName);
+console.log(typeof weight);
