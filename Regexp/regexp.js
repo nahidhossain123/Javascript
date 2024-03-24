@@ -33,3 +33,7 @@ console.log(text.search(/\bLO/));
 // \uxxxx--->find unicode number
 text = "Visit W3Schools. Hello World!";
 console.log(text.match(/\u0057/g));
+
+//Quantifiers
+// n+ matches any string that contains atleast one n
+// n* matches
